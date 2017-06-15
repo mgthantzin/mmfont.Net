@@ -2,7 +2,7 @@
 .Net library for converting between Unicode and Zawgyi
 
 ## Credit
-This library is .Net adaptation of [mmfont by setkyar](https://github.com/setkyar/mmfont/) who packaged [saturngod's Rabbit](https://github.com/saturngod/Rabbit) into php.
+This library is .Net adaptation of [mmfont by @setkyar](https://github.com/setkyar/mmfont/) who packaged [@saturngod's Rabbit](https://github.com/saturngod/Rabbit) into php.
 
 ## Usage
 
