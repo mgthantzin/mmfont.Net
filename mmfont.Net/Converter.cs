@@ -202,7 +202,7 @@ namespace mmfont.Net
             foreach (Rule r in Rules)
             {
                 Regex rgx = new Regex(r.From);
-                input2 = rgx.Replace(input, r.To);
+                input = rgx.Replace(input, r.To);
             }
 
             return input;
