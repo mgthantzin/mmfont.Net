@@ -1,7 +1,7 @@
 # mmfont.Net
 .Net library for converting between Unicode and Zawgyi
 
-This library is .Net adaptation ofhttps://github.com/setkyar/mmfont
+This library is .Net adaptation of https://github.com/setkyar/mmfont
 
 ## Usage
 
