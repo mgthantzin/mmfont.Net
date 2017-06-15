@@ -1,0 +1,4 @@
+c:\users\zinoo_thant\documents\visual studio 2010\Projects\mmfont.Net\mmfont.Net\bin\Debug\mmfont.Net.dll
+c:\users\zinoo_thant\documents\visual studio 2010\Projects\mmfont.Net\mmfont.Net\bin\Debug\mmfont.Net.pdb
+c:\users\zinoo_thant\documents\visual studio 2010\Projects\mmfont.Net\mmfont.Net\obj\Debug\mmfont.Net.dll
+c:\users\zinoo_thant\documents\visual studio 2010\Projects\mmfont.Net\mmfont.Net\obj\Debug\mmfont.Net.pdb
