@@ -2,3 +2,4 @@ c:\users\zinoo_thant\documents\visual studio 2010\Projects\mmfont.Net\mmfont.Net
 c:\users\zinoo_thant\documents\visual studio 2010\Projects\mmfont.Net\mmfont.Net\bin\Debug\mmfont.Net.pdb
 c:\users\zinoo_thant\documents\visual studio 2010\Projects\mmfont.Net\mmfont.Net\obj\Debug\mmfont.Net.dll
 c:\users\zinoo_thant\documents\visual studio 2010\Projects\mmfont.Net\mmfont.Net\obj\Debug\mmfont.Net.pdb
+C:\Users\zinoo_thant\Documents\Visual Studio 2010\Projects\mmfont.Net\mmfont.Net\bin\Debug\mmfont.Net.XML
