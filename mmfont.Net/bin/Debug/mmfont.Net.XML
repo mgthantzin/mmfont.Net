@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>mmfont.Net</name>
+    </assembly>
+    <members>
+        <member name="M:mmfont.Net.Converter.Uni2ZG(System.String)">
+            <summary>
+            Convert Unicode to Zawgyi
+            </summary>
+            <param name="Uni">Unicode string</param>
+            <returns>Zawgyi string</returns>
+        </member>
+        <member name="M:mmfont.Net.Converter.ZG2Uni(System.String)">
+            <summary>
+            Convert Zawgyi to Unicode
+            </summary>
+            <param name="ZG">Zawgyi string</param>
+            <returns>Unicode string</returns>
+        </member>
+    </members>
+</doc>
