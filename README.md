@@ -1,5 +1,5 @@
 # mmfont.Net
-.Net library for converting between Unicode and Zawgyi
+.Net library for converting between Unicode :left_right_arrow: Zawgyi
 
 [![Build status](https://ci.appveyor.com/api/projects/status/f4b13no00qkurlrf?svg=true)](https://ci.appveyor.com/project/mgthantzin/mmfont-net)
 
