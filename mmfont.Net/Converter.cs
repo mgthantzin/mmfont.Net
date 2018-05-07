@@ -3,6 +3,9 @@ using System.Text.RegularExpressions;
 
 namespace mmfont.Net
 {
+    /// <summary>
+    /// This Converter class two functions - Uni2ZG() and ZG2Uni() both accepting an input string.
+    /// </summary>
     public static class Converter
     {
         private static List<Rule> UniRules
