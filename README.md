@@ -17,3 +17,7 @@ This library is .Net adaptation of [mmfont by @setkyar](https://github.com/setky
             txtZawgyi.Text = Converter.Uni2ZG(txtUni.Text);
         }
     }
+
+## Warning
+
+This is not a fully functional library. Instead, it's just a starter with lots of rooms for improvement.
