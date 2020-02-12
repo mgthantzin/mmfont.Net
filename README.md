@@ -14,7 +14,7 @@ This library is .Net adaptation of [mmfont by @setkyar](https://github.com/setky
     {
         private void btnConvert_Click(object sender, EventArgs e)
         {
-            txtZawgyi.Text = Converter.Uni2ZG(txtUni.Text);
+            txtUni.Text = Converter.ZG2Uni(txtZawgyi.Text);
         }
     }
 
